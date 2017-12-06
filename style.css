@@ -1,0 +1,60 @@
+/* line 1, ../../xampp/htdocs/anewTask/style.scss */
+body {
+  margin: 0;
+  padding: 0;
+  background: #333; }
+
+/* line 6, ../../xampp/htdocs/anewTask/style.scss */
+.container {
+  height: 600px;
+  width: 40%;
+  background: #f0f0f0;
+  margin: -330px auto;
+  top: 0;
+  box-shadow: 0 0 5px 5px #fff; }
+  /* line 14, ../../xampp/htdocs/anewTask/style.scss */
+  .container .ctn {
+    height: inherit;
+    width: 100%; }
+    /* line 19, ../../xampp/htdocs/anewTask/style.scss */
+    .container .ctn .image {
+      height: 150px;
+      width: 40%;
+      margin: 0 auto;
+      text-align: center; }
+      /* line 26, ../../xampp/htdocs/anewTask/style.scss */
+      .container .ctn .image .bg-image {
+        height: 120px;
+        width: 120px;
+        background-position: center;
+        background-size: cover;
+        border-radius: 60px;
+        border: 1.5px solid deepskyblue;
+        margin: 0 auto; }
+    /* line 38, ../../xampp/htdocs/anewTask/style.scss */
+    .container .ctn ul {
+      height: 400px;
+      width: 100%;
+      margin-top: 0;
+      padding-left: 10px;
+      padding-right: 15px;
+      float: left; }
+      /* line 49, ../../xampp/htdocs/anewTask/style.scss */
+      .container .ctn ul li {
+        width: 100%;
+        color: #333;
+        margin-top: 5px;
+        font: 15px tahoma;
+        list-style: none; }
+
+/* line 63, ../../xampp/htdocs/anewTask/style.scss */
+.next, .prev {
+  height: 60px;
+  width: 60px;
+  margin-top: 300px; }
+
+/* line 70, ../../xampp/htdocs/anewTask/style.scss */
+.prev {
+  float: right; }
+
+/*# sourceMappingURL=style.css.map */
