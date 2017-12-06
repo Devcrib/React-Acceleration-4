@@ -10,8 +10,3 @@ Click on the left and right bar to navigate to the next and previous user's prof
 
 * **Omole Grace** - *Initial work* - Devcribber
 (https://github.com/grace2241)
-
-## Contributor : 
-* **Akinade Tunmise** - *Initial work* - Devcribber
-(https://github.com/bc2mighty)
-
